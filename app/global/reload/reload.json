@@ -1,0 +1,15 @@
+{
+  "reloadDataDetailed": true,
+  "settingInfo": {
+    "nama": "",
+    "keterangan": "Memeriksa dan memperbarui data aplikasi dari server"
+  },
+  "skipFolders": [
+    "app/global/aset/",
+    "app/lokal/"
+  ],
+  "skipExtensions": [
+    ".txt",
+    ".lnk"
+  ]
+}
